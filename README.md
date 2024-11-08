@@ -14,16 +14,9 @@
 ### 🔹 Key Projects
 
 #### 1. Minecraft AntiCheat
-- **Objective**: Developed a Logistic Regression model to identify cheaters with a dataset of 40 million records.
-- **Highlights**: Achieved significant accuracy, improving model robustness with feature scaling and regularization.
-
 #### 2. House Price Prediction (Mumbai)
-- **Model**: Built a neural network to predict house prices, reaching **93% accuracy**.
-- **Tech Stack**: Python, TensorFlow, Data Preprocessing (Encoding, Scaling)
-
 #### 3. Video Games Sales Clustering for Market Segmentation
-- **Project**: Utilized **K-Means Clustering** to analyze and segment PS4 game sales data, revealing valuable market insights.
-- **Techniques**: Elbow Method, Silhouette Score for optimal K-value selection.
+you can check all of them out in my repositories :)
 
 ## ⚙️ Technical Skills
 - **Programming Languages**: Python, JavaScript
@@ -31,5 +24,5 @@
 - **Machine Learning**: Regression models, Neural Networks, Logistic Regression, Clustering
 - **Data Processing**: Feature Engineering, Data Scaling, Dimensionality Reduction, Encoding (Target, One-Hot)
 
-## 📫 Let’s Connect!
+## 📫 You can contact me here:
 - **LinkedIn**: [Manav Arora](https://www.linkedin.com/in/manav-arora-488924295/)
