@@ -1,6 +1,6 @@
 # 💻 Manav Arora
 
-👋 Hi! I'm Manav, a **B.Tech in Computer Science** (AI & ML) student at **Atlas SkillTech University** and currently pursuing a **B.S from IIT Madras**. I have hands-on experience in **Machine Learning**.
+👋 Hi! I'm Manav, a student at **IIT Madras** and **Atlas Skilltech University**. Currently pursuing two degrees in **Machine Learning and Artificial Intelligence** along with **Data Science and Applications**
 
 ## 🚀 Projects & Experience
 
