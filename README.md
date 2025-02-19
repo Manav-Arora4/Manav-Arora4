@@ -22,8 +22,6 @@ you can check all of them out in my repositories :)
 ## ⚙️ Technical Skills
 - **Programming Languages**: Python, JavaScript
 - **Libraries & Tools**: Scikit-learn, TensorFlow, MongoDB, PowerBI, Figma, Seaborn, Matplotlib, Numpy, Pandas
-- **Machine Learning**: Regression models, Neural Networks, Logistic Regression, Clustering
-- **Data Processing**: Feature Engineering, Data Scaling, Dimensionality Reduction, Encoding (Target, One-Hot)
 
 ## 📫 You can contact me here:
 - **LinkedIn**: [Manav Arora](https://www.linkedin.com/in/manav-arora-488924295/)
