@@ -5,7 +5,8 @@
 ## 🚀 Projects & Experience
 
 ### 🔹 Machine Learning Intern at Calibre Technologies
-- **Role**: Currently working as a Machine Learning Intern, where I’m refining my skills and contributing to live ML projects.
+- **Duration**: Aug 2024 - Nov 2024
+- **Role**: Developed ML Models and also created front-end applications for users to interact with these ML models.
 
 ### 🔹 Front-End Developer Intern at FynTune Solution Pvt Ltd
 - **Duration**: May 2024 - July 2024
