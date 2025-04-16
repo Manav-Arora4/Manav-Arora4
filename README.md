@@ -4,9 +4,9 @@
 
 ## 🚀 Projects & Experience
 
-### 🔹 Machine Learning Intern at Calibre Technologies
-- **Duration**: Aug 2024 - Nov 2024
-- **Role**: Developed ML Models and also created front-end applications for users to interact with these ML models.
+### 🔹 Software Engineer at OutPulse
+- **Duration**: Dec 2024 - Feb 2025
+- **Role**: Designed software/ML Models for a Drone.
 
 ### 🔹 Front-End Developer Intern at FynTune Solution Pvt Ltd
 - **Duration**: May 2024 - July 2024
@@ -14,7 +14,7 @@
 
 ### 🔹 Key Projects
 
-#### 1. Minecraft AntiCheat
+#### 1. Recommendation Engine (work in progress)
 #### 2. House Price Prediction (Mumbai)
 #### 3. Video Games Sales Clustering for Market Segmentation
 you can check all of them out in my repositories :)
