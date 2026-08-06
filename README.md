@@ -13,3 +13,8 @@ Specializing in Machine Learning and Artificial Intelligence.
 
 ## You can contact me here:
 - **LinkedIn**: [Manav Arora](https://www.linkedin.com/in/manav-arora4/)
+
+## Fun facts about me:
+- I love video games
+- I stream on Twitch
+- I love drinking coffee
