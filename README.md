@@ -12,4 +12,4 @@ Specializing in Machine Learning and Artificial Intelligence.
 - **Tools:** Git, Docker, Power BI
 
 ## You can contact me here:
-- **LinkedIn**: [Manav Arora](https://www.linkedin.com/in/manav-arora-488924295/)
+- **LinkedIn**: [Manav Arora](https://www.linkedin.com/in/manav-arora4/)
