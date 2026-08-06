@@ -17,4 +17,4 @@ Specializing in Machine Learning and Artificial Intelligence.
 ## Fun facts about me:
 - I love video games
 - I stream on Twitch
-- I love drinking coffee
+- Coffee and Chocolate Milk are my favourite drinks
