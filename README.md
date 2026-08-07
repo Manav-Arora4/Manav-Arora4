@@ -9,7 +9,7 @@ Specializing in Machine Learning and Artificial Intelligence.
 **Frameworks:** FastAPI, Flask, React \
 **Databases:** PostgreSQL, Redis, MySQL, MongoDB \
 **Cloud:** Vercel, Render, Neon, Upstash \
-**Tools:** Git, Docker, Power BI \
+**Tools:** Git, Docker, Power BI 
 
 ## You can contact me here:
 **LinkedIn**: [Manav Arora](https://www.linkedin.com/in/manav-arora4/)
