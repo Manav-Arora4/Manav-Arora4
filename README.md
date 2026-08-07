@@ -14,6 +14,8 @@ Specializing in Machine Learning and Artificial Intelligence.
 ## You can contact me here:
 **LinkedIn**: [Manav Arora](https://www.linkedin.com/in/manav-arora4/)
 
+# My Portfolio Website: [Link](https://manav-arora4.github.io/resume-website/)
+
 ## Fun facts about me:
 - I love video games
 - I stream on Twitch
