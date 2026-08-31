@@ -13,11 +13,11 @@ Specializing in Machine Learning and Artificial Intelligence.
 
 ## You can contact me here:
 **LinkedIn**: [Manav Arora](https://www.linkedin.com/in/manav-arora4/)
+[Website](https://manav-arora4.github.io/resume-website/)
 
-## My Portfolio Website: 
-[Link](https://manav-arora4.github.io/resume-website/)
 
 ## Fun facts about me:
 - I love video games
 - I stream on Twitch
 - Coffee and Chocolate Milk are my favourite drinks
+- I use fedora KDE as my main operating system
