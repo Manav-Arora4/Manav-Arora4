@@ -18,6 +18,5 @@ Specializing in Machine Learning and Artificial Intelligence.
 
 ## Fun facts about me:
 - I love video games
-- I stream on Twitch
 - Coffee and Chocolate Milk are my favourite drinks
 - I use fedora KDE as my main operating system
